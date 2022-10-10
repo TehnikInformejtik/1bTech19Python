@@ -14,3 +14,11 @@
 #     print("nie")
 
 # zad 3
+# wiek = int(input))
+
+# if wiek >= 18:
+#   print("Jestes pelnoletni")
+# else:
+#   print("ale bobas")
+
+# zad 4
