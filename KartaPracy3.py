@@ -13,12 +13,19 @@
 
 # zadania
 
-print(list(range(10,22)))
+# print(list(range(10,22)))
 
-print(list(range(15, 32, 2)))
+# print(list(range(15, 32, 2)))
 
-print(list(range(99, 9, -1)))
+# print(list(range(99, 9, -1)))
 
-print(list(range(-99, -9, 1)))
+# print(list(range(-99, -9, 1)))
 
-print(list(range(100, 1000, 20)))
+# print(list(range(100, 1000, 20)))
+
+# zad 1
+
+
+# zad 2
+for i in range(105, 1000, 15):
+ print(i)
