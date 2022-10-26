@@ -39,14 +39,25 @@
 #      print(i,end=" ")
 
 # zad 4
-s = 0
-for i in range(10,100):
-  s=s+i
-print(s)
+# s = 0
+# for i in range(10,100):
+#   s=s+i
+# print(s)
 
 # zad 5
-n = int(input())
+# n = int(input("W ile osob gramy? "))
 
-for i in range(n-1):
-  k = int(input())
-  
+# suma = n*(n+1) // 2
+# for i in range(n-1):
+#    a = int(input())
+#    suma = suma - a
+# print(suma)
+
+# napisz pętlę sumującą liczby dwucyfrowe parzyste
+
+suma=0
+for i in range(10, 100, 2):
+  suma=suma+i
+print(suma)
+
+#
