@@ -14,7 +14,7 @@
 
 # zad 4
 # for i in range (100,1000):
-#   if i&5==0 or i%6==0 or i%11==0:
+#   if i%5==0 or i%6==0 or i%11==0:
 #     print (i, end=" ")
     
 #zad 5
@@ -29,7 +29,11 @@
 
 
 #zad 7
-
+# m = int(input("podaj liczbe: "))
+# suma = 0
+# for i in range(11,m+1,2):
+#   suma+=m
+# print(suma)
 
 #zad 8
 # W0 = float(input("podaj kwote wejsciowa: "))

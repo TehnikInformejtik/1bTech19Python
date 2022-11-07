@@ -24,9 +24,9 @@
 # elif l==m:
 #   print('TAK')
 # elif m==k:
-#   print('TAK')
+#   print('TAK, 'm,k)
 # elif m == l:
-#   print('TAK')
+#   print('TAK, 'm,l)
 # else:
 #   print('NIE')
 
@@ -64,4 +64,4 @@
 # elif aa+bb < cc:
 #   print("rozwatokątny")
 # elif aa+bb > cc:
-#   print("ostrokątny")
+#   print("ostrokątny")[]
